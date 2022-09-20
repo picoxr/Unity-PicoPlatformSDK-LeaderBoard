@@ -1,0 +1,13 @@
+﻿/Library/
+/Logs/
+/obj/Debug/
+/Temp/
+/*.apk
+/*.log
+/*.sln
+/*.csproj
+/.vs
+/.vscode/
+/APKS/
+/.idea
+/.vsconfig

@@ -1,0 +1,217 @@
+{
+    "m_SelectedDeviceId": "PA8210MGG8200043G",
+    "m_SelectedPackage": {
+        "deviceId": "PA8210MGG8200043G",
+        "name": "com.DefaultCompany.TankArena_Starter",
+        "processId": 25659,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 30222,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 31061,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 31462,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 31927,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 5948,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 13214,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 24865,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 26354,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 31006,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 11799,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 5393,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 10477,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 11944,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 12871,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 5333,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 5328,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 5825,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 6635,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 7765,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 11494,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 19287,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7N10MGG2232222W",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 10635,
+            "exited": false
+        },
+        {
+            "deviceId": "PA8210MGG8200043G",
+            "name": "com.DefaultCompany.TankArena_Starter",
+            "processId": 25659,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": true,
+        "m_MatchCase": true
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}
